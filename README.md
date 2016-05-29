@@ -11,6 +11,14 @@ Play
 This way you'll have a shell opened to try commands and show the logs. Then,
 you can use the following ways to access to the data:
 
+Available Commands
+------------------
+
+- **SUBSCRIBE** <chan>: let you subscribe to a specific channel.
+- **UNSUBSCRIBE** <chan>: unsubscribe to the specific channel.
+- **PUBLISH** <chan> <msg>: send whatever specified in *msg* to the channel.
+- **QUIT**: close connection (only available for TCP).
+
 TCP
 ---
 
