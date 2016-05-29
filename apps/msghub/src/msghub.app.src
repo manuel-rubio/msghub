@@ -1,0 +1,19 @@
+{application, msghub, [
+  {description, "Pub/Sub System"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {mod, {msghub_app, []}},
+  {applications, [
+    kernel,
+    stdlib,
+    lager,
+    sasl,
+    inets
+  ]},
+  {env,[]},
+  {modules, []},
+
+  {maintainers, []},
+  {licenses, []},
+  {links, []}
+]}.
