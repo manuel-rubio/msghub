@@ -2,6 +2,7 @@ msghub
 =====
 
 [![Build Status](https://img.shields.io/travis/manuel-rubio/msghub/master.svg)](https://travis-ci.org/manuel-rubio/msghub)
+[![Codecov](https://img.shields.io/codecov/c/github/manuel-rubio/msghub.svg)](https://codecov.io/gh/manuel-rubio/msghub)
 [![License: LGPL 2.1](https://img.shields.io/github/license/manuel-rubio/msghub.svg)](https://raw.githubusercontent.com/manuel-rubio/msghub/LICENSE)
 
 An OTP application
